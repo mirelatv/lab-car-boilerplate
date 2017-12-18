@@ -2,18 +2,16 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-
-}
-section{
-  width: 100%;
 }
 @media (min-width: 768px) {
+  .header{
+
+  }
 .fondo1{
   background-image:url('../assets/images/taxi.jpg');
-  position: relative;
   background-size: cover;
   background-position: bottom;
-  width: 100%;
+  width: auto;
   height:700px;
 }
 .minSection{
@@ -22,7 +20,7 @@ section{
  color: #fff;
  width: 500px;
  height: 300px;
- margin-left:  63%;
+ margin-left:  63.2%;
  margin-top: 10%;
 }
 .p1{
@@ -45,8 +43,8 @@ section{
 .container2{
   color: #fff;
   background-color: #ffc107;
-  width: 100%;
   height: 500px;
+  width: auto;
 }
 .cont2 .two{
   margin-left: 500px;
@@ -69,8 +67,8 @@ section{
   background-position: bottom;
   background-size: cover;
   background-color: rgba(0,0,0.4,1.8);
-  width: 100%;
   height:450px;
+  width: auto;
 }
 .principal {
   margin-top: 20%;
@@ -88,8 +86,8 @@ section{
 .cont5{
   background-color: #ffc107;
   background-size: cover;
-  width: 100%;
   height: 500px;
+  width: auto;
   color:#fff;
 }
 .btn5{
@@ -133,9 +131,46 @@ section{
 }
 
 .cont6{
-  width: 95%;
   border: 1px solid #fff;
   margin-top: 10%;
   margin-left: -10%;
+}
+.cont7{
+  color: #fff;
+  background-color: #2C3E50;
+  height:540px;
+  width: auto;
+}
+.right{
+  
+}
+.Icons{
+  height:300px;
+  width: 200px;
+  margin-left: 5%;
+}
+.icons{
+  width:200px;
+  margin-top: 260px;
+  margin-left: 10%;
+  padding: 0px;
+}
+.social{
+  padding: 5px;
+}
+.List-stak{
+  padding: 8px;
+}
+.logIcon{
+  width: 200px;
+  margin-left: 350px;
+  margin-top: -60%;
+}
+.rulSemi{
+  margin-left: 5%;
+}
+.final{
+  margin-top: 25%;
+  margin-left: -175%;
 }
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   .fon.fondo1{
