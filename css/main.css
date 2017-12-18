@@ -1,1 +1,88 @@
-/* Los estilos de tu proyecto */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+section{
+  width: 100%;
+}
+@media (min-width: 768px) {
+.fondo1{
+  background-image:url('../assets/images/taxi.jpg');
+  position: relative;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  height:700px;
+}
+.minSection{
+ background-color: #ffc107;
+ font-size: 20px;
+ color: #fff;
+ width: 500px;
+ height: 300px;
+ margin-left:  63%;
+ margin-top: 10%;
+}
+.p1{
+  margin-top: 5%;
+}
+.p3{
+  margin-left: 25%;
+  margin-top:-7%;
+}
+.rule1{
+  margin-top: 5%;
+}
+.rule2{
+ margin-left: 45%;
+ margin-top: -5%;
+}
+.btn1{
+  margin-top: 5%;
+}
+.container2{
+  color: #fff;
+  background-color: #ffc107;
+  width: 100%;
+  height: 500px;
+}
+.cont2 .two{
+  margin-left: 500px;
+}
+
+.h3{
+  margin-top: 20%;
+}
+.sub{
+  margin-top: 10%;
+}
+
+.celImage{
+ margin-left: 20%;
+ margin-top: 10%;
+}
+.cont3{
+  color: #fff;
+  background-image: url('../assets/images/conduce.jpg');
+  background-position: bottom;
+  background-size: cover;
+  background-color: rgba(0,0,0.4,1.8);
+  width: 100%;
+  height:450px;
+}
+.principal {
+  margin-top: 20%;
+}
+.sub{
+  margin-top:5%
+}
+.btn3{
+  margin-top: 10%;
+  background-color:#ffc107;
+  color: #fff;
+  width: 60%;
+}
+
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   .fon.fondo1{
