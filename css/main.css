@@ -9,8 +9,6 @@
   background-image:url('../assets/images/taxi.jpg');
   background-size:cover;
   background-position: bottom;
-  height:700px;
-  width: 200%;
   }
   .minSection{
   background-color: #ffc107;
@@ -41,15 +39,11 @@
   .container2{
   color: #fff;
   background-color: #ffc107;
-  height: 860px;
-  width: 200%;
+
   }
   .cont2 {
     border: 1px solid #fff;
-    width: 600px;
-    height: 700px;
-    margin-left: 70px;
-    margin-top: 50px;
+    
   }
 
   .textEnd{
@@ -64,8 +58,6 @@
   background-position: bottom;
   background-size: cover;
   background-color: rgba(0,0,0.4,1.8);
-  height:450px;
-  width: 200%;
   }
   .principal {
   margin-top: 20%;
@@ -83,8 +75,6 @@
   .cont5{
   background-color: #ffc107;
   background-size: cover;
-  height: 1000px;
-  width: 200%;
   color:#fff;
   }
   .btn5{
@@ -133,7 +123,6 @@
   }
   .img6{
   width: 50%;
-
   margin-top: -50%;
   margin-left: 20%
   }
@@ -146,7 +135,7 @@
   .cont7{
   color: #fff;
   background-color: #2C3E50;
-  height:600px;
+
 
   }
   .right{
@@ -201,18 +190,17 @@
   background-image:url('../assets/images/taxi.jpg');
   background-size: cover;
   background-position: bottom;
-  width: auto;
-  height:700px;
+  height:100vh;
+  display:flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 .minSection{
  background-color: #ffc107;
  font-size: 20px;
  color: #fff;
- width: 500px;
- height: 300px;
- margin-left:  63.2%;
- margin-top: 10%;
-}
+ width: auto;
+ }
 .p1{
   margin-top: 5%;
 }
@@ -369,8 +357,8 @@
   padding: 8px;
 }
 .logIcon{
-  width: 200px;
-  margin-left: 350px;
+  width: 20rem;
+  margin-left: 80%;
   margin-top: -60%;
 }
 .rulSemi{
