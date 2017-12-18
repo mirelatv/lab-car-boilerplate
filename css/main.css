@@ -1,11 +1,208 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-@media (min-width: 768px) {
-  .header{
 
+
+@media (min-width:0px) {
+  .firstImage{
+    width: 50%;
+    margin-top: -30%;
+    margin-left: 25%;
+  }
+  .fondo1{
+
+  background-image:url('../assets/images/taxi.jpg');
+  background-size: cover;
+  background-position: bottom;
+  height:700px;
+  }
+  .minSection{
+  background-color: #ffc107;
+  font-size: 20px;
+  color: #fff;
+  width: 500px;
+  height: 200px;
+  margin-right: 0%;
+  margin-top: 10%;
+  }
+  .p1{
+  margin-top: 5%;
+  }
+  .p3{
+  margin-left: 25%;
+  margin-top:-7%;
+  }
+  .rule1{
+  margin-top: 5%;
+  }
+  .rule2{
+  margin-left: 45%;
+  margin-top: -5%;
+  }
+  .btn1{
+  margin-top: 5%;
+  }
+  .container2{
+  color: #fff;
+  background-color: #ffc107;
+  height: 860px;
+  width: 226.7%;
+  }
+  .cont2 {
+    border: 1px solid #fff;
+    width: 760px;
+    height: 700px;
+    margin-left: 270px;
+    margin-top: 50px;
+  }
+  .two{
+
+  }
+  .pxs2{
+    margin-top: 5%;
+    margin-left: -2%;
+  }
+  .h3{
+  margin-top: 20%;
+  }
+  .sub{
+  margin-top: 10%;
+  }
+
+  .celImage{
+  margin-left: 30%;
+  margin-top: 15%;
+  height: 400px;
+  }
+
+  .textEnd{
+   color: #fff;
+
+  }
+  .cont3{
+  color: #fff;
+  background-image: url('../assets/images/conduce.jpg');
+  background-position: bottom;
+  background-size: cover;
+  background-color: rgba(0,0,0.4,1.8);
+  height:450px;
+
+  }
+  .principal {
+  margin-top: 20%;
+  }
+  .sub{
+  margin-top:5%
+  }
+  .btn3{
+  margin-top: 10%;
+  background-color:#ffc107;
+  color: #fff;
+  width: 60%;
+  }
+
+  .cont5{
+  background-color: #ffc107;
+  background-size: cover;
+  height: 540px;
+
+  color:#fff;
+  }
+  .btn5{
+  display: inline-block;
+  width: 40%;
+  font-size: 15px;
+  color:#fff;
+  background-color: #ffc107;
+  border: 1px solid #fff;
+  margin-left: 25%;
+  margin-top: 6%;
+  }
+  .img51{
+  margin-left:15%;
+  margin-top:8%;
+  }
+  .img5{
+  margin-left: 15%;
+  margin-top: 5%
+  }
+
+  .btn6{
+  width: 50%;
+  margin-top: 10%;
+  margin-left: 25%;
+
+  }
+  .title5{
+  margin-left: 15%;
+  margin-top: 5%;
+  font-size: 25px;
+  }
+  .paragraph5{
+  margin-left: 15%;
+  margin-top: 4%;
+  font-size: 15px;
+  }
+  .img6{
+  width: 70%;
+  margin: 10% 10% 10% 15%;
+  }
+
+  .cont6{
+  border: 1px solid #fff;
+  margin-top: 10%;
+  margin-left: -20%;
+  }
+  .cont7{
+  color: #fff;
+  background-color: #2C3E50;
+  height:600px;
+
+  }
+  .right{
+
+  }
+  .Icons{
+  height:300px;
+  width: 200px;
+  margin-left: 5%;
+  }
+  .icons{
+  width:200px;
+  margin-top: 260px;
+  margin-left: 10%;
+  padding: 0px;
+  }
+  .social{
+  padding: 5px;
+  }
+  .List-stak{
+  padding: 8px;
+  }
+  .logIcon{
+  width: 200px;
+  margin-left: 350px;
+  margin-top: -60%;
+  }
+  .rulSemi{
+  margin-left: 5%;
+  }
+  .final{
+  margin-top: 25%;
+  margin-left: -175%;
+  }
+  .img7{
+  width: 8%;
+  margin-left: 20%;
+  margin-top: 5%;
+  }
+
+}
+
+
+@media (min-width: 768px) {
+
+.firstImage{
+    width: 50%;
+    margin-top: -30%;
+    margin-left: 25%;
   }
 .fondo1{
   background-image:url('../assets/images/taxi.jpg');
@@ -43,13 +240,19 @@
 .container2{
   color: #fff;
   background-color: #ffc107;
-  height: 500px;
   width: auto;
-}
-.cont2 .two{
-  margin-left: 500px;
-}
+  height: 600px;
 
+}
+.cont2 {
+  margin-left: 2%;
+  width:500px;
+  height: 500px;
+}
+.two{
+  width:500px;
+  margin-left: 10%;
+}
 .h3{
   margin-top: 20%;
 }
@@ -58,7 +261,7 @@
 }
 
 .celImage{
- margin-left: 20%;
+ margin-left: 5%;
  margin-top: 10%;
 }
 .cont3{
@@ -86,9 +289,23 @@
 .cont5{
   background-color: #ffc107;
   background-size: cover;
-  height: 500px;
+  height: 540px;
   width: auto;
   color:#fff;
+}
+.btn51{
+  display: inline-block;
+  width: 40%;
+  font-size: 15px;
+  color:#fff;
+  background-color: #ffc107;
+  border: 1px solid #fff;
+  margin-left: 15%;
+  margin-top: 6%;
+}
+.img51{
+  margin-left:5%;
+  margin-top:8%;
 }
 .btn5{
   display: inline-block;
@@ -97,22 +314,18 @@
   color:#fff;
   background-color: #ffc107;
   border: 1px solid #fff;
-  margin-left: 25%;
-  margin-top: 6%;
-}
-.img51{
-  margin-left:15%;
-  margin-top:8%;
+  margin-left: 15%;
+  margin-top: 26%;
 }
 .img5{
- margin-left: 15%;
- margin-top: 5%
+ margin-left: -58%;
+ margin-top: 25%
 }
 
 .btn6{
   width: 50%;
   margin-top: 10%;
-  margin-left: 25%;
+  margin-left: 15%;
 
 }
 .title5{
@@ -126,23 +339,24 @@
   font-size: 15px;
 }
 .img6{
-  width: 70%;
-  margin: 10% 10% 10% 15%;
+  width: 90%;
+  margin: 5% 5% 5% 5%;
 }
 
 .cont6{
+  width: 300px
   border: 1px solid #fff;
-  margin-top: 10%;
-  margin-left: -10%;
+  margin-top: -70%;
+  margin-left: 20%;
 }
 .cont7{
   color: #fff;
   background-color: #2C3E50;
-  height:540px;
+  height:600px;
   width: auto;
 }
 .right{
-  
+
 }
 .Icons{
   height:300px;
@@ -172,5 +386,10 @@
 .final{
   margin-top: 25%;
   margin-left: -175%;
+}
+.img7{
+  width: 8%;
+  margin-left: 20%;
+  margin-top: 5%;
 }
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   .fon.fondo1{
