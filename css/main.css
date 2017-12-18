@@ -1,23 +1,22 @@
-@media only screen and (max-width: 767px) {
+
   .firstImage{
     width: 50%;
-    margin-top: -30%;
-    margin-left: 25%;
+
   }
   .fondo1{
-
-  background-image:url('../assets/images/taxi.jpg');
-  background-size:cover;
-  background-position: bottom;
+    background-image:url('../assets/images/taxi.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
   }
   .minSection{
   background-color: #ffc107;
   font-size: 20px;
   color: #fff;
-  width: 500px;
-  height: 200px;
-  margin-left:  0%;
-  margin-top: 10%;
+
   }
   .p1{
   margin-top: 5%;
@@ -43,7 +42,7 @@
   }
   .cont2 {
     border: 1px solid #fff;
-    
+
   }
 
   .textEnd{
@@ -78,59 +77,40 @@
   color:#fff;
   }
   .btn5{
-  display: inline-block;
-  width: 20%;
-  font-size: 15px;
+
   color:#fff;
   background-color: #ffc107;
   border: 1px solid #fff;
-  margin-left: 5%;
-  margin-top:-30%;
+
   }
   .btn51{
-    width: 20%;
-    margin-top: 5%;
-    margin-left: 11%;
+
     background-color: #ffc107;
-    border: 1px solid #fff;
+
     color: #fff;
   }
-
   .img51{
-  margin-left:5%;
-  margin-top:5%;
+
   }
   .img5{
-  margin-left: 5%;
-  margin-top: -15%
+
   }
 
   .btn6{
-  width: 20%;
-  margin-top: 6%;
-  margin-left: -20%;
 
   }
     .title5{
-  margin-left: 5%;
-  margin-top: 10%;
-  font-size: 25px;
+    font-size: 25px;
   }
   .paragraph5{
-  margin-left: 5%;
-  margin-top: 2%;
   font-size: 15px;
   }
   .img6{
   width: 50%;
-  margin-top: -50%;
-  margin-left: 20%
   }
 
   .cont6{
   border: 1px solid #fff;
-  margin-top: 10%;
-  margin-left: -20%;
   }
   .cont7{
   color: #fff;
@@ -142,15 +122,10 @@
 
   }
   .Icons{
-  height:300px;
-  width: 200px;
-  margin-left: 5%;
+
+
   }
   .icons{
-  width:200px;
-  margin-top: 260px;
-  margin-left: 10%;
-  padding: 0px;
   }
   .social{
   padding: 5px;
@@ -159,24 +134,17 @@
   padding: 8px;
   }
   .logIcon{
-  width: 200px;
-  margin-left: 350px;
-  margin-top: -60%;
+
   }
   .rulSemi{
   margin-left: 5%;
   }
   .final{
-  margin-top: 25%;
-  margin-left: -175%;
   }
   .img7{
   width: 8%;
-  margin-left: 20%;
-  margin-top: 5%;
+  
   }
-
-}
 
 
 @media (min-width: 768px) {
@@ -186,15 +154,7 @@
     margin-top: -30%;
     margin-left: 25%;
   }
-.fondo1{
-  background-image:url('../assets/images/taxi.jpg');
-  background-size: cover;
-  background-position: bottom;
-  height:100vh;
-  display:flex;
-  align-items: center;
-  justify-content: flex-end;
-}
+
 .minSection{
  background-color: #ffc107;
  font-size: 20px;
